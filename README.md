@@ -31,6 +31,21 @@ The site deliberately does not present a PC date, online-mode details, exact map
 - [Official Trailer 1](https://www.youtube.com/watch?v=QdBZY2fkU-0)
 - [Official Trailer 2](https://www.youtube.com/watch?v=VQRLujxTm3c)
 
+## Maintainer
+
+Built by **Femi Ogunmola**.
+
+- GitHub: [github.com/Mikecode2005](https://github.com/Mikecode2005)
+- Email: [femimike2005@gmail.com](mailto:femimike2005@gmail.com)
+
+## Repository files
+
+- `CONTRIBUTING.md` — source and editorial contribution standards.
+- `SECURITY.md` — security and factual-correction contact boundary.
+- `CODE_OF_CONDUCT.md` — community expectations.
+- `CHANGELOG.md` — project history.
+- `LICENSE` — MIT for the original source code; third-party marks remain owned by their respective holders.
+
 ## Run locally
 
 ```bash
