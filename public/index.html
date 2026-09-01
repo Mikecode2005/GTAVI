@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="GTAVI — an independent, source-aware fan-made intelligence hub for Grand Theft Auto VI." />
+    <meta property="og:title" content="GTAVI · Welcome to Vice City" />
+    <meta property="og:description" content="Confirmed facts, characters, Leonida, trailers, and the signal behind Grand Theft Auto VI." />
+    <meta property="og:image" content="/og-image.svg" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/styles.css" />
+    <title>GTAVI · Welcome to Vice City</title>
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+    <header class="topbar">
+      <a class="wordmark" href="#home" aria-label="GTAVI home"><span>GTA</span><b>VI</b><small>INTELLIGENCE</small></a>
+      <nav class="desktop-nav" aria-label="Main navigation">
+        <a href="#home" data-route="home">Home</a><a href="#intel" data-route="intel">Intel</a><a href="#characters" data-route="characters">Characters</a><a href="#leonida" data-route="leonida">Leonida</a><a href="#media" data-route="media">Media</a>
+      </nav>
+      <div class="top-actions"><span class="fact-check"><i></i> Source-aware</span><button class="menu-button" id="menu-button" type="button" aria-expanded="false" aria-controls="mobile-nav">Menu</button></div>
+      <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation"><a href="#home" data-route="home">Home</a><a href="#intel" data-route="intel">Intel</a><a href="#characters" data-route="characters">Characters</a><a href="#leonida" data-route="leonida">Leonida</a><a href="#media" data-route="media">Media</a></nav>
+    </header>
+
+    <main id="app" tabindex="-1"></main>
+    <noscript><div class="noscript">GTAVI needs JavaScript for navigation and the live countdown. Please enable it to enter Vice City.</div></noscript>
+    <footer class="site-footer"><div><span class="footer-mark">GTAVI</span><p>An independent fan-made information hub. Not affiliated with Rockstar Games or Take-Two Interactive.</p></div><div class="footer-links"><a href="https://www.rockstargames.com/VI" target="_blank" rel="noreferrer">Official game page ↗</a><a href="https://www.rockstargames.com/VI/media" target="_blank" rel="noreferrer">Official media ↗</a><span>© 2026 · No official assets reproduced</span></div></footer>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
