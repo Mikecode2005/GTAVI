@@ -11,6 +11,9 @@ GTAVI is an independent, fan-made Grand Theft Auto VI information hub with a cin
 - **Characters** — Lucia Caminos and Jason Duval, limited to the official public synopsis.
 - **Leonida** — an original visual interpretation of the confirmed setting; it is not an official map.
 - **Media** — official Rockstar trailers and primary source links.
+- **Timeline** — source-aware announcement sequence and current date history.
+- **FAQ** — concise answers to platform, setting, release, and official-status questions.
+- **About** — editorial policy, research ledger, maintainer contact, and correction path.
 
 ## Confirmed facts used
 
